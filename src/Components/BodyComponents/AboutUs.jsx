@@ -15,22 +15,22 @@ export default function AboutUs() {
   const cardMediaData = [
     {
       title: " Web Development",
-      description: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      description: " We are using React for FrontEnd & Express or MongoDb for Backend",
       icon: <DashboardIcon />,
     },
     {
       title: "Graphic Design",
-      description: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      description: "We are also Providing Graphics for Your Need.",
       icon: <ToysIcon />,
     },
     {
       title: "Mobile Apps",
-      description: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      description: "We are also Develope a Native or Hybrid Apps.",
       icon: <PermDeviceInformationIcon />,
     },
     {
       title: "Marketing",
-      description: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      description: " We are also Providing Marketing for your Brand.",
       icon: <AcUnitIcon />,
     },
   ];
